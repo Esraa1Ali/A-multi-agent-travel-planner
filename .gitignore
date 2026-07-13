@@ -1,0 +1,32 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.playwright/
+.DS_Store
+# Docker practice files
+Dockerfile
+docker-compose.yml
+
+# Environment variables
+.env
+*.env
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
